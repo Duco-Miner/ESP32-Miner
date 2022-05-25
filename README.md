@@ -1,17 +1,37 @@
 # ESP32-Miner
 
-The ESP32-Miner Board forms the Master Device which controls the [AVR-Miners](https://github.com/Duco-Miner/AVR-Miner) in the DUCO-Miner Rack. The [Common Miner Baseboard](https://github.com/Duco-Miner/Common-Miner-Baseboard) uses one ormultiple ESP32-Miner Boards for Mining the Duino Coin.
+The ESP32-Miner Board forms the Master Device which controls the [AVR-Miners](https://github.com/Duco-Miner/AVR-Miner) in the DUCO-Miner Rack. The [Common Miner Baseboard](https://github.com/Duco-Miner/Common-Miner-Baseboard) uses one or multiple ESP32-Miner Boards for Mining the Duino Coin.
 
 These are the KiCAD Project files for the ESP32-Miner Board PCB.
 
 Please feel free to modify the design files as per your requirements. Improvements are always appreciated !!!
 
 ---
+### Preview:
+
+1) PCB View 1:
+
+![ESP32-Miner](https://github.com/Duco-Miner/ESP32-Miner/blob/d2294ad3ddb10a88800d787325a78426912363d1/IMAGES/ESP32-Miner-1.png)
+
+2) PCB View 2:
+
+![ESP32-Miner](https://github.com/Duco-Miner/ESP32-Miner/blob/d2294ad3ddb10a88800d787325a78426912363d1/IMAGES/ESP32-Miner-2.png)
+
+3) PCB Front View:
+
+![ESP32-Miner](https://github.com/Duco-Miner/ESP32-Miner/blob/d2294ad3ddb10a88800d787325a78426912363d1/IMAGES/ESP32-Miner-3.png)
+
+4) PCB Back View:
+
+![ESP32-Miner](https://github.com/Duco-Miner/ESP32-Miner/blob/d2294ad3ddb10a88800d787325a78426912363d1/IMAGES/ESP32-Miner-4.png)
+
+---
+
 
 ### PCB Specifications:
 
 - Layers: 2
-- Size: 20mm x 30mm
+- Size: 32mm x 32mm
 
 ---
 
@@ -44,5 +64,5 @@ Please find the Code to be uploaded to ESP32 Miner here: [https://github.com/Duc
 
 ### Additional Links:
 
-Check out the awesome Duino Coin Project at: [https://duinocoin.com](https://duinocoin.com)
-Duino Coin Wallet: [https://wallet.duinocoin.com](https://wallet.duinocoin.com)
+- Check out the awesome Duino Coin Project at: [https://duinocoin.com](https://duinocoin.com)
+- Duino Coin Wallet: [https://wallet.duinocoin.com](https://wallet.duinocoin.com)
